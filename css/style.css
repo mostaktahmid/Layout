@@ -1,0 +1,33 @@
+header{
+  background-color: yellow;
+  height: 200px;
+  width: 100%;
+}
+.nav{
+  background-color: yellow;
+  height: 300px;
+  width: 25%;
+  margin-right:13px;
+  float:left;
+}
+.article{
+  background-color: yellow;
+  height: 300px;
+  width: 53%;
+  float: left;
+}
+.sidebar{
+  background-color: yellow;
+  height: 300px;
+  width: 20%;
+  float: right;
+}
+.content{
+  margin-top: 20px;
+  overflow:hidden;
+}
+footer{
+  height: 200px;
+  width:100%;
+  background-color: yellow;
+}
